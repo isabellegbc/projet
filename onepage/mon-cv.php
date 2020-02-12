@@ -22,7 +22,7 @@
             <h1>MON CURRICULUM VITAE</h1>
         </div>
         <div>
-            <img class="image" src="photo.jpg" alt="image">
+            <img class="image" src="assets/img/en-tete.jpeg" alt="image">
         </div>
         <nav>
 
@@ -57,7 +57,8 @@
                 <p><?php echo $nomCandidat ?></p>
                 <p><?php echo $prenomCandidat ?></p>
                 <p><?php echo $adresseCandidat ?></p>
-                <p><?php echo $telCandidaABELLE ?></p>
+                <p><?php echo $telCandidat ?></p>
+                <?php
                 $adresseCandidat = "94 la grande bastide cazaulx";
                 $telCandidat = "0659927349";
                 $emailCandidat = "isabelle.gbc@laposte.net";
