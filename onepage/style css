@@ -1,0 +1,6 @@
+p {
+    color: #f00;
+}
+
+.image
+{float:right}
